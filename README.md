@@ -1,3 +1,5 @@
-# inventpilot
+# Invent Pilot App
 
-A new Flutter project.
+Proyecto final Modulo Desarollo de Aplicaciones Moviles
+
+**Estudiante:** Jhonatan Denis Sanchez Nogales
